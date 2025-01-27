@@ -1,0 +1,132 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 27
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => napaspositif@gmail.com
+            [message] => sdfgdfg
+            [created_at] => 2025-01-02 04:21:17
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 27
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => napaspositif@gmail.com
+            [message] => sdfgdfg
+            [created_at] => 2025-01-02 04:21:17
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 27
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => napaspositif@gmail.com
+            [message] => sdfgdfg
+            [created_at] => 2025-01-02 04:21:17
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 28
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => anjay@gmail.com
+            [message] => fghfhgfhfgh
+            [created_at] => 2025-01-02 04:27:10
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 27
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => napaspositif@gmail.com
+            [message] => sdfgdfg
+            [created_at] => 2025-01-02 04:21:17
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 28
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => anjay@gmail.com
+            [message] => fghfhgfhfgh
+            [created_at] => 2025-01-02 04:27:10
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 27
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => napaspositif@gmail.com
+            [message] => sdfgdfg
+            [created_at] => 2025-01-02 04:21:17
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 28
+            [user_id] => 13
+            [name] => Aliyyul Munif
+            [email] => anjay@gmail.com
+            [message] => fghfhgfhfgh
+            [created_at] => 2025-01-02 04:27:10
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 29
+            [user_id] => 13
+            [name] => hehe
+            [email] => aliyyulkepleset@gmail.com
+            [message] => dfgdgdfgdg
+            [created_at] => 2025-01-02 04:31:56
+            [is_replied] => 0
+            [reply] => 
+            [message_id] => 
+        )
+
+)
